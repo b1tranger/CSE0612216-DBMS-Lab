@@ -1,3 +1,5 @@
+  > related repo [Programming-Records](https://github.com/b1tranger/Programming-Records/)
+
 # CSE0612216-DBMS-Lab
 [ repository created on 02.06.25 ]
 
